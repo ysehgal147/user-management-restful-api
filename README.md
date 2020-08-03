@@ -19,7 +19,7 @@ Flask based RESTful API Implementation with the help of Flask with TOTP Authenti
 * TOTP
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/ysehgal147/user-management-restful-api/master/Screenshot%202020-07-27%20at%202.13.00%20PM.png" width="200">
+<img src="https://raw.githubusercontent.com/ysehgal147/user-management-restful-api/master/Screenshot%202020-07-27%20at%202.13.00%20PM.png" width="500">
 
 ## Setup
 Download or Clone the Code Files, and Run using Python3.
